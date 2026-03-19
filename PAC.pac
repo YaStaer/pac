@@ -5,7 +5,8 @@ function FindProxyForURL(url, host) {
 		"sudrf.ru",
 		"isiac.app",
 		"iactmb.ru",
-		"2ip.ru"
+		"2ip.ru",
+        "yummyani.me"
     ];
 
     // 2. Настройки прокси (укажите свои)
