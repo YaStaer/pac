@@ -7,7 +7,8 @@ function FindProxyForURL(url, host) {
 		"iactmb.ru",
 		"2ip.ru",
         "yummyani.me",
-        "kodikplayer.com"
+        "kodikplayer.com",
+        "regex101.com"
     ];
 
     // 2. Настройки прокси
