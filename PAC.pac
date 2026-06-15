@@ -6,7 +6,8 @@ function FindProxyForURL(url, host) {
 		"isiac.app",
 		"iactmb.ru",
 		"2ip.ru",
-        "yummyani.me"
+        "yummyani.me",
+        "kodikplayer.com"
     ];
 
     // 2. Настройки прокси
