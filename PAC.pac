@@ -9,7 +9,8 @@ function FindProxyForURL(url, host) {
         "yummyani.me",
         "kodikplayer.com",
         "regex101.com",
-        "pkd-live-wu2ie.com"
+        "pkd-live-wu2ie.com",
+        "mult-fan.tv"
     ];
 
     // 2. Настройки прокси
